@@ -1,4 +1,4 @@
-## YOLO Tracker
+## YOLO Detect
 
 
 ### donwload weights
@@ -13,7 +13,7 @@
 
 ### run
 ```
-# python yolo_tracker.py
+# python yolo_detect.py
 ```
 
 ![](data/images/struc.png)
